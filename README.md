@@ -2,7 +2,7 @@
 
 A lightweight, dark-themed GUI tool for pinging multiple IP addresses concurrently — built with Python and CustomTkinter.
 
-<img width="506" height="345" alt="image" src="https://github.com/user-attachments/assets/7c8301af-35ce-4bc9-a387-5865d4e0fc34" />
+<img width="1082" height="748" alt="image" src="https://github.com/user-attachments/assets/d4ca8486-f90d-4e23-9101-96b6f8588c32" />
 
 ---
 
